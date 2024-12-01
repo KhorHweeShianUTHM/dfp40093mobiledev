@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1010182382917",
+    "firebase_url": "https://labact13firebase-ae6ce-default-rtdb.firebaseio.com",
+    "project_id": "labact13firebase-ae6ce",
+    "storage_bucket": "labact13firebase-ae6ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1010182382917:android:6ad96e802eb8f358ac8a2c",
+        "android_client_info": {
+          "package_name": "com.example.labact13firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1010182382917-2lp2rf2ag9m0astaqbjv3s2om78tft22.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.labact13firebase",
+            "certificate_hash": "540b27a0a73451a2f93c5bce4c780a89e1474ee1"
+          }
+        },
+        {
+          "client_id": "1010182382917-h0akdmn8t4ohn839vrm0e5j0i3307rjf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkcZXfJ-fPLRIegOUItACxg2_R-DCg4HU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1010182382917-h0akdmn8t4ohn839vrm0e5j0i3307rjf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "375091338252",
+    "project_id": "labact15firebase2",
+    "storage_bucket": "labact15firebase2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:375091338252:android:a9b37a3231b4d5f4c4a229",
+        "android_client_info": {
+          "package_name": "com.example.labact15firebase2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "375091338252-q4fa5puqn4in9etcr0gm0iufgla7ivko.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVBlc7JGMoN0SOW5zad6l4V9hmDMaa8s0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "375091338252-q4fa5puqn4in9etcr0gm0iufgla7ivko.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

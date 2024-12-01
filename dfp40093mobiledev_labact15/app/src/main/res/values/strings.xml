@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">labact15Firebase2</string>
+    <array name="courses">
+        <item>ICS</item>
+        <item>OS</item>
+        <item>OOP</item>
+        <item>Mobile Development</item>
+    </array>
+</resources>

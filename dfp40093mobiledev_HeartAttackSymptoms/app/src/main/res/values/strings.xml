@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">HeartAttackSymptoms_KhorF1118</string>
+
+    <string name="info1">A heart attack, also called a myocardial infarction, happens when a part of the heart muscle doesntget enough blood. The more time that passes without treatment to restore blood flow, the greater the damage to the heartmuscle. Coronary artery disease (CAD) is the main cause of heart attack.A heart attack, also called a myocardial infarction,happens when a part of the heart muscle does not get enough blood. The more time that passes without treatment to restoreblood flow, the greater the damage to the heart muscle. Coronary artery disease (CAD) is the main cause of heart attack.</string>
+
+    <string name="info2">A heart attack occurs when the flow of blood to the heart is blocked. The blockage is most often a buildup of fat, cholesterol and other substances, which form a plaque in the arteries that feed the heart (coronary arteries). Sometimes, a plaque can rupture and form a clot that blocks blood flow. The interrupted blood flow can damage or destroy part of the heart muscle.</string>
+
+    <string name="info3">A heart attack, also called a myocardial infarction, can be fatal, but treatment has improved dramatically over the years. It is crucial to call 911 or emergency medical help if you think you might be having a heart attack.</string>
+
+    <string name="symptoms1">
+        The major symptoms of a heart attack are :-
+        <br>1.	Chest pain or discomfort. Most heart attacks involve discomfort in the center or left side of the chest that lasts for more than a few minutes or that goes away and comes back.\n</br>
+        <br>2.	Feeling weak, light-headed, or faint.\n</br>
+        <br>3.	Pain or discomfort in the jaw, neck, or back.\n</br>
+        <br>4.	Pain or discomfort in one or both arms or shoulders.\n</br>
+        <br>5.	Shortness of breath. This often comes along with chest discomfort, but shortness of breath also can happen before chest discomfort.\n</br>
+        <br>6.	Unusual or unexplained tiredness and nausea or vomiting.\n</br>
+    </string>
+
+    <string name="symptoms2">
+        Symptoms of a heart attack include:
+        <br>1.	Discomfort, pressure, heaviness, tightness, squeezing, or pain in your chest or arm or below your breastbone\n</br>
+        <br>2.	Discomfort that goes into your back, jaw, throat, or arm\n</br>
+        <br>3.	Fullness, indigestion, or a choking feeling (it may feel like heartburn)\n</br>
+        <br>4.	Sweating, upset stomach, vomiting, or dizziness\n</br>
+        <br>5.	Severe weakness, anxiety, fatigue, or shortness of breath\n</br>
+        <br>6.	Fast or uneven heartbeat\n</br>
+    </string>
+
+    <string name="symptoms3">
+        Women are more likely to have these heart attack symptoms:
+        <br>1.	Unusual fatigue\n</br>
+        <br>2.	Shortness of breath\n</br>
+        <br>3.	Nausea or vomiting\n</br>
+        <br>4.	Dizziness or lightheadedness\n</br>
+        <br>5.	Discomfort in your gut. It may feel like indigestion.\n</br>
+        <br>6.	Discomfort in the neck, shoulder, or upper back\n</br>
+    </string>
+
+    <string name="causes1">
+        Causes of heart attack that can be preventable :
+        <br>1.	Diabetes\n</br>
+        <br>2.	Obesity\n</br>
+        <br>3.	High Cholesterol\n</br>
+        <br>4.	High Blood Pressure\n</br>
+    </string>
+
+    <string name="causes2">
+        Causes of heart attack that unpreventable :
+        <br>1.	Menopause in Women\n</br>
+        <br>2.	Ethnicity\n</br>
+        <br>3.	Age\n</br>
+        <br>4.	Gender\n</br>
+    </string>
+
+    <string name="causes3">
+        Causes of heart attack occurs when :
+        <br>1.	Coronary arteries become blocked. Over time, a buildup of fatty deposits, including cholesterol, form substances called plaques, which can narrow the arteries (atherosclerosis). This condition, called coronary artery disease, causes most heart attacks.\n</br>
+        <br>2.	A spasm of a coronary artery that shuts down blood flow to part of the hear muscle. Using tobacco and illicit drugs, such as cocaine, can cause a life-threatening spasm.\n</br>
+        <br>3.	Infection with COVID-19 also may damage your heart in ways that result in a heart attack.\n</br>
+    </string>
+
+    <string name="prevent">
+        There are several ways to prevent heart attack :
+        <br>1.	Stop smoking\n</br>
+        <br>2.	Eat a healthy diet\n</br>
+        <br>3.	Be physically active\n</br>
+        <br>4.	Watch your weight\n</br>
+        <br>5.	Manage conditions\n</br>
+        <br>6.	Take your medicine\n</br>
+        <br>7.	Be a team player\n</br>
+    </string>
+</resources>
